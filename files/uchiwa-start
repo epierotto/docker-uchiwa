@@ -1,0 +1,3 @@
+#!/bin/bash
+
+go run uchiwa.go -c uchiwa.json
