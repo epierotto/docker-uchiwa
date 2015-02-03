@@ -2,7 +2,7 @@
   "sensu": [
      {
       "name": "Site 1",
-      "host": "sensu-api.service.consul",
+      "host": "10.0.0.10",
       "port": 4567,
       "ssl": false,
       "insecure": false,
